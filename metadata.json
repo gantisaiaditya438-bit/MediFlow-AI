@@ -1,0 +1,7 @@
+{
+  "name": "AI Clinical History Intake Assistant - OPD Triage",
+  "description": "High-throughput Outpatient Department (OPD) clinical history intake assistant. Converts unstructured patient narratives into structured, physician-ready clinical summaries with SOCRATES framework, red-flag triage, and privacy redaction.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
